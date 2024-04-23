@@ -1,0 +1,17 @@
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\obj\Debug\net8.0\Console_exo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\obj\Debug\net8.0\Console_exo1.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\obj\Debug\net8.0\Console_exo1.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\obj\Debug\net8.0\Console_exo1.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\bin\Debug\net8.0\Console_exo1.exe
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\bin\Debug\net8.0\Console_exo1.deps.json
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\bin\Debug\net8.0\Console_exo1.runtimeconfig.json
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\bin\Debug\net8.0\Console_exo1.dll
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\bin\Debug\net8.0\Console_exo1.pdb
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\obj\Debug\net8.0\Console_exo1.dll
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\obj\Debug\net8.0\refint\Console_exo1.dll
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\obj\Debug\net8.0\Console_exo1.pdb
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\obj\Debug\net8.0\Console_exo1.genruntimeconfig.cache
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\obj\Debug\net8.0\ref\Console_exo1.dll
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\bin\Debug\net8.0\ANSIConsole.dll
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\obj\Debug\net8.0\Console_exo1.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Documents\cours\classique\2nde année\CSharp-fondamentaux\Console_exo1\Console_exo1\obj\Debug\net8.0\Console_.BFB9BEEF.Up2Date
